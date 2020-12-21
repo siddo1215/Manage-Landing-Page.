@@ -1,0 +1,49 @@
+#orange_footer{
+    background-color: orangered;
+    color: aliceblue;
+    padding: 2%;
+}
+
+.bck_img1{
+    background: url("../images/bg-tablet-pattern.svg") no-repeat;
+    background-position: 120% -50%;
+    overflow: hidden;
+}
+
+.btn-request{
+   
+    
+    display: inline-block;
+    padding: 0.65rem 1.3rem;
+    background: green;
+    background: salmon;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 30px; 
+ box-shadow: 2px 2px 2px salmon;}
+
+    .btn-request:hover {
+        color: salmon;
+        
+      background: white;
+       
+}
+
+.footer__black{
+    background-color: black;
+    padding: 2%;
+}
+.links a{
+    color: aliceblue;
+}
+
+.links a:hover{
+  color: salmon;
+  text-decoration: none;
+
+}
+.row{
+    padding: 2%;
+}
